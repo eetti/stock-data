@@ -1,1 +1,4 @@
 *.swp
+.ipynb_checkpoints/
+data/
+volatility/
